@@ -10,3 +10,4 @@ public class X101 {
 	}
 
 }
+jp.ac.chiba.x15g016.kd001
